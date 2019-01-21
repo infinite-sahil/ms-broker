@@ -1,7 +1,7 @@
 # ms-broker
 Rabbit MQ demonstration
 
-Steps:
+**Steps to have Rabbit MQ to up and running:**
 1.  Download and Install RabbitMQ (https://www.rabbitmq.com/download.html), 
     > to install RabbitMQ you need to setup EnLarge.exe first
    Since RabbitMQ is built on top of Erlang, we will first need to install Erlang. Got to the Erlang downloads page(https://www.erlang.org/downloads) and download the     erlang binary file for windows which is an executable.
